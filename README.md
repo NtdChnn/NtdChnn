@@ -12,7 +12,7 @@ I am interested in Backend Development and Quality Assurance.
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postmen&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![STM](https://img.shields.io/badge/STMicroelectronics-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
